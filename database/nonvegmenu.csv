@@ -1,0 +1,5 @@
+Food Item,Description,Category,Price (INR),Calories,Availability,Path
+Caesar Salad,Crisp romaine lettuce with Caesar dressing,Salads,149,180,Available,Caesar Salad.jpg
+Butter Chicken,Rich and creamy butter chicken curry,Indian,399,450,Available,Butter Chicken.jpg
+Sushi Roll,Fresh sushi roll with salmon and avocado,Japanese,499,200,Available,Sushi Roll.jpg
+Tacos,Soft tacos filled with chicken and veggies,Mexican,199,250,Available,Tacos.jpg

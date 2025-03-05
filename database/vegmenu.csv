@@ -1,0 +1,5 @@
+Food Item,Description,Category,Price (INR),Calories,Availability,Path
+Margherita Pizza,Classic cheese pizza with tomato base,Italian,299,270,Available,Margherita Pizza.jpg
+Veggie Burger,A healthy burger with fresh veggies,American,199,350,Available,Veggie Burger.jpg
+Paneer Tikka,Grilled paneer with Indian spices,Indian,249,300,Available,Paneer Tikka.jpg
+Spring Rolls,Crispy rolls stuffed with veggies,Chinese,149,200,Available,Spring Rolls.jpg

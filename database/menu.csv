@@ -1,0 +1,11 @@
+Food Item,Description,Category,Price (INR),Calories,Availability,Path,Key
+Margherita Pizza,Classic cheese pizza with tomato base,Italian,299,270,Available,Margherita Pizza.jpg,Veg
+Veggie Burger,A healthy burger with fresh veggies,American,199,350,Available,Veggie Burger.jpg,Veg
+Caesar Salad,Crisp romaine lettuce with Caesar dressing,Salads,149,180,Available,Caesar Salad.jpg,Non-Veg
+Butter Chicken,Rich and creamy butter chicken curry,Indian,399,450,Available,Butter Chicken.jpg,Non-Veg
+Paneer Tikka,Grilled paneer with Indian spices,Indian,249,300,Available,Paneer Tikka.jpg,Veg
+Sushi Roll,Fresh sushi roll with salmon and avocado,Japanese,499,200,Out of Stock,Sushi Roll.jpg,Non-Veg
+Chocolate Cake,Decadent chocolate cake with ganache topping,Desserts,349,450,Available,Chocolate Cake.jpg,Non-Veg
+Tacos,Soft tacos filled with chicken and veggies,Mexican,199,250,Available,Tacos.jpg,Non-Veg
+Spring Rolls,Crispy rolls stuffed with veggies,Chinese,149,200,Available,Spring Rolls.jpg,Veg
+Espresso,Strong and rich coffee shot,Beverages,99,10,Available,Espresso.jpg,Veg
